@@ -26,4 +26,3 @@ Each problem solution is named according to its problem number and a brief title
 
 Contributions are welcome! If you'd like to contribute a solution or improve existing solutions, please feel free to open an issue or create a pull request.
 
-# LeetCode-Solved
